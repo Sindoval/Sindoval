@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Entusiasta de novas tecnologias 🔥, minha caminhada começou no final de 2022, quando me foi apresentado esse mundo da programação. Logo depois, iniciei o curso de Desenvolvimento WEB full stack na escola de tecnologia Trybe, 1500 horas de formação que abordaram fundamentos de desenvolvimento web, Front-end, Back-end, ciência da computação, metodologias ágeis e habilidades comportamentais. Atualmente, estou cursando um Tecnólogo em Análise e Desenvolvimento de Sistemas. Meus principais objetivos é a criação de interfaces intuitivas e experiências de usuário envolventes, alavancando boas práticas de design para desenvolver soluções eficientes e acessíveis. Estou sempre buscando aprender, evoluir e contribuir para projetos que desafiem minha capacidade. Apesar de no momento estar focado no Frontend eu pretendo me tornar um programador Full Stack.</p>
+<p align="left">Entusiasta de novas tecnologias 🔥, minha caminhada começou no final de 2022, quando me foi apresentado esse mundo da programação. Logo depois, iniciei o curso de Desenvolvimento WEB full stack na escola de tecnologia Trybe, 1500 horas de formação que abordaram fundamentos de desenvolvimento web, Front-end, Back-end, ciência da computação, metodologias ágeis e habilidades comportamentais. Atualmente, estou cursando um Tecnólogo em Análise e Desenvolvimento de Sistemas. Meus principais objetivos é a criação de interfaces intuitivas e experiências de usuário envolventes, alavancando boas práticas de design para desenvolver soluções eficientes e acessíveis. Estou sempre buscando aprender, evoluir e contribuir para projetos que desafiem minha capacidade. Apesar de no momento estar focado no Backend, pretendo me tornar um programador Full Stack.</p>
 
 ###
 
